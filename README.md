@@ -1,5 +1,5 @@
 # About Me:
-🔭 I’m currently working on a Farter-R Resnet-50 FPN CNN optimized and deployed with Flask on a production server shown with the Vue framework<br>👯 I’m looking to collaborate on Startups<br>🤝 I’m looking for help with AI, Systems and data design and backend<br>🌱 I’m currently learning Docker and multiple AWS services <br>💬 Ask me about AI<br>⚡ Fun fact I'm a mathematical engineer who decided to jump on the tech train for fun
+🔭 I’m currently working on my proyect mulcloud.net<br>👯 I’m looking to collaborate on Startups<br>🤝 I’m looking for help with AI, Systems and data design and backend<br>🌱 I’m currently learning Docker and multiple AWS services <br>💬 Ask me about AI<br>⚡ Fun fact I'm a mathematical engineer who decided to jump on the tech train for fun
 
 
 ## 🌐 Socials:
