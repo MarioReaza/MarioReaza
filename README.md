@@ -1,9 +1,13 @@
 # About Me:
-🔭 I’m currently working on my proyect mulcloud.net<br>👯 I’m looking to collaborate on Startups<br>🤝 I’m looking for help with AI, Systems and data design and backend<br>🌱 I’m currently learning Docker and multiple AWS services <br>💬 Ask me about AI<br>⚡ Fun fact I'm a mathematical engineer who decided to jump on the tech train for fun
+🔭 I’m currently working on my proyect mulcloud.net<br>
+👯 I’m looking to put my grain of salt on Startups<br>
+🤝 I’m looking for help with AI, Systems and data design, backend, devops and devsecops<br>
+🌱 I’m currently learning production systems with Go, React and Redis <br>
+⚡ Fun fact I'm a mathematical engineer who decided to jump on the tech industry
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mario-reaza-890118205/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/AliveCa7) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mario-reaza-890118205/) 
 
 # 💻 My Tech Stack
 
