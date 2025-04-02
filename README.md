@@ -75,6 +75,7 @@
 ![SSH Hardening](https://img.shields.io/badge/SSH%20Hardening-%23231F20.svg?style=plastic&logo=ssh&logoColor=white)
 
 ## 🛠️ Development Tools
+![Neovim](https://img.shields.io/badge/neovim-%2357A143.svg?style=plastic&logo=neovim&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=plastic&logo=eslint&logoColor=white)
