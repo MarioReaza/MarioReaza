@@ -1,136 +1,58 @@
-# About Me:
-🔭 I'm currently working on Alog<br>
-👯 I'm looking to put my grain of salt on Startups<br>
-🤝 I'm looking for help with AI, Systems and data design, backend, devops and devsecops<br>
-🌱 I'm currently learning production systems with Go, React and Kubernetes <br>
-⚡ Fun fact I'm a mathematical engineer who decided to jump on the tech industry
+# Ejemplos de Estilos de Badges en shields.io
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mario-reaza-890118205/) 
-
-# 💻 My Tech Stack
-
-## 🖥️ Programming Languages
+## 1. Estilo "plastic" (el que usas actualmente)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) 
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%23CC2927.svg?style=plastic&logo=sql&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) 
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=plastic&logo=lua&logoColor=white)
-
-## 🌐 Frontend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white)
-![Responsive Design](https://img.shields.io/badge/responsive-%23430098.svg?style=plastic&logo=responsive&logoColor=white)
-
-## 🔧 Backend
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-%23005571.svg?style=plastic&logo=rest&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens)
-![Authentication Systems](https://img.shields.io/badge/Auth-%23150458.svg?style=plastic&logo=auth0&logoColor=white)
-![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=plastic&logo=strapi&logoColor=white)
-![Jinja](https://img.shields.io/badge/jinja-white.svg?style=plastic&logo=jinja&logoColor=black)
-
-## ☁️ Cloud & DevOps
-### Infrastructure & Platforms
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=plastic&logo=linux&logoColor=black)
-![SystemD](https://img.shields.io/badge/systemd-%23242424.svg?style=plastic&logo=linux&logoColor=white)
-
-### Containerization & Orchestration
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white)
 
-### CI/CD & Automation
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-%232088FF.svg?style=plastic&logo=github-actions&logoColor=white)
-![Packer](https://img.shields.io/badge/packer-%23E7EEF0.svg?style=plastic&logo=packer&logoColor=%2302A8EF)
+## 2. Estilo "flat" (diseño plano moderno)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
 
-### Web Servers & Security
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white)
-![Caddy](https://img.shields.io/badge/caddy-%232a2a2a.svg?style=plastic&logo=caddy&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/cloudflare-%23F38020.svg?style=plastic&logo=cloudflare&logoColor=white)
+## 3. Estilo "flat-square" (plano con esquinas cuadradas)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white)
 
-## 📊 Databases
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white)
+## 4. Estilo "for-the-badge" (insignias grandes con texto en mayúsculas)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-## 🧠 Machine Learning & Data Science
-### Frameworks & Libraries
+## 5. Estilo "social" (similar a insignias de redes sociales)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=social&logo=go&logoColor=blue) 
+![Python](https://img.shields.io/badge/python-3670A0?style=social&logo=python&logoColor=blue)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=social&logo=docker&logoColor=blue)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=social&logo=kubernetes&logoColor=blue)
+
+## Otros ejemplos: Combinaciones de tecnologías
+
+### Estilo "plastic" (actual)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23FF6F61.svg?style=plastic&logo=huggingface&logoColor=white)
 
-### Data Processing & Visualization
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white)
+### Estilo "flat" 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
 
-### Specialized ML Areas
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-%23025E8C.svg?style=plastic&logo=opencv&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-%23FF6F00.svg?style=plastic&logo=tensorflow&logoColor=white)
-![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=plastic&logo=nVIDIA&logoColor=green)
+### Estilo "flat-square"
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
 
-## 🔒 Security
-### Network & Application Security
-![HTTPS](https://img.shields.io/badge/HTTPS-%23000000.svg?style=plastic&logo=https&logoColor=white)
-![Firewall](https://img.shields.io/badge/Firewall-%23FF3E00.svg?style=plastic&logo=firewall&logoColor=white)
-![SSH Hardening](https://img.shields.io/badge/SSH%20Hardening-%23231F20.svg?style=plastic&logo=ssh&logoColor=white)
+### Estilo "for-the-badge"
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-### Security Tools
-![CrowdSec](https://img.shields.io/badge/CrowdSec-%23F7A81B.svg?style=plastic&logo=crowdsec&logoColor=white)
-![SNYK](https://img.shields.io/badge/SNYK-%234C4A73.svg?style=plastic&logo=snyk&logoColor=white)
-
-## 🛠️ Development Tools
-### Code & Version Control
-![Neovim](https://img.shields.io/badge/neovim-%2357A143.svg?style=plastic&logo=neovim&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=plastic&logo=eslint&logoColor=white)
-
-### API Development & Testing
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=plastic&logo=swagger&logoColor=white)
-
-### Project Management & Workflow
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white)
-![SCRUM](https://img.shields.io/badge/SCRUM-%230052CC.svg?style=plastic&logo=trello&logoColor=white)
-
-### Utilities & Environment
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white)
-![WinSCP](https://img.shields.io/badge/WinSCP-%23575757.svg?style=plastic&logo=winscp&logoColor=white)
-
-## 🎨 Design & Visualization
-### UI/UX Tools
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
-![UI/UX](https://img.shields.io/badge/UI%2FUX-%23FF61F6.svg?style=plastic&logo=figma&logoColor=white)
-
-### Data Visualization
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black)
-![Microsoft Excel (VBA)](https://img.shields.io/badge/Excel%20VBA-%23217346.svg?style=plastic&logo=microsoftexcel&logoColor=white)
-
-## 📝 Documentation & Text
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white)
-![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=plastic&logo=octave&logoColor=fcd683)
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
----
-[![](https://visitcount.itsvg.in/api?id=MarioReaza&icon=0&color=0)](https://visitcount.itsvg.in)
+### Estilo "social"
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=social&logo=amazon-aws&logoColor=orange)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=social&logo=react&logoColor=blue)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=social&logo=TensorFlow&logoColor=orange)
